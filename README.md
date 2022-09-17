@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kcmatlhola92
+- 👋 Hi, I’m Keaobaka Matlhola
 - 👀 I’m interested in soccer, rugby, IT, and networking
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on projects or tasks 
